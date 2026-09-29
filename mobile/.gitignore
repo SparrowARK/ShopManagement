@@ -1,0 +1,24 @@
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.env
+.env.local
+atlas-credentials.env
+server/.env
+server/dist/
+server/node_modules/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.log
+*.tmp
